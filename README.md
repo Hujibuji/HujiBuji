@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Hujibuj">
-    <img src="https://img.shields.io/badge/GitHub-Hujibuj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Hujibuji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://t.me/kaLLoware_dev">
     <img src="https://img.shields.io/badge/Telegram-@kaLLoware__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -55,8 +55,8 @@ const kaLLoware = {
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hujibuj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hujibuj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hujibuji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hujibuji&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
