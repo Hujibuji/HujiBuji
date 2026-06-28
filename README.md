@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я kaLLoware</h1>
 
-<!--
-**Hujibuji/HujiBuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Hujibuj">
+    <img src="https://img.shields.io/badge/GitHub-Hujibuj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/kaLLoware_dev">
+    <img src="https://img.shields.io/badge/Telegram-@kaLLoware__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;C%23+%2F+Python+%2F+C%2B%2B+Enthusiast;Lua%2FLuau+Scripter;%D0%9F%D0%B8%D1%88%D1%83+%D0%B2%D1%81%D1%91%2C+%D1%87%D1%82%D0%BE+%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BE+%D1%81+%D0%B2%D0%B5%D0%B1%D0%BE%D0%BC" alt="Typing SVG"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Обо мне
+
+```ts
+const kaLLoware = {
+  nickname: "kaLLoware",
+  focus: "всё, что связано с вебом",
+  languages: ["TypeScript", "JavaScript", "C#", "Python", "C/C++", "Lua/Luau"],
+  currently: "пилю свои проекты и кайфую от кода",
+};
+```
+
+- 🌐 Основное направление — **веб-разработка** (TypeScript / JavaScript)
+- 🖥️ Пишу десктоп-софт на **C#**
+- 🐍 Автоматизирую и скриптую на **Python**
+- ⚙️ Балуюсь с низким уровнем на **C / C++**
+- 🎮 Делаю скрипты для **Roblox** на **Lua / Luau**
+
+---
+
+## 🛠️ Стек технологий
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,cs,dotnet,python,c,cpp,lua&theme=dark" alt="Tech stack"/>
+</p>
+
+---
+
+## 🚀 Проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| 🔐 **VPN Client** | Собственный VPN-клиент | `C#` |
+| 🎯 **Roblox External** | External-чит для Roblox | `C++` / `C` |
+| 📜 **Injector Scripts** | Скрипты для инжекторов | `Luau` |
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hujibuj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hujibuj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hujibuj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Связаться со мной
+
+<p align="center">
+  <a href="https://github.com/Hujibuj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/kaLLoware_dev">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hujibuj&style=flat-square&color=58A6FF" alt="Profile views"/>
+</p>
