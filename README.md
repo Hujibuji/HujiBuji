@@ -20,9 +20,9 @@
 ```ts
 const kaLLoware = {
   nickname: "kaLLoware",
-  focus: "всё, что связано с вебом",
+  окак: "покойо мбибилеле",
   languages: ["TypeScript", "JavaScript", "C#", "Python", "C/C++", "Lua/Luau"],
-  currently: "пилю свои проекты и кайфую от кода",
+  дима любит папу и свою маму: "хвх роблакс мардар мистери",
 };
 ```
 
