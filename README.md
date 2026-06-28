@@ -60,7 +60,7 @@ const kaLLoware = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hujibuj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hujibuji&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
